@@ -1,3 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">CarRecog</string>
+    <string name="title_settings">Настройки</string>
+
+    <string name="btn_settings">Настройки</string>
+    <string name="log_header">Последни засичания</string>
+    <string name="status_connected">● Свързан</string>
+    <string name="status_disconnected">● Несвързан</string>
+
+    <string name="label_confidence">Праг на детекция (Confidence)</string>
+    <string name="hint_confidence">По-висок праг = по-малко фалшиви засичания</string>
+    <string name="label_gps_interval">Интервал на GPS обновяване (ms)</string>
+    <string name="label_server_url">URL на сървъра</string>
+    <string name="btn_save">Запази настройките</string>
+    <string name="settings_saved">Настройките са запазени</string>
 </resources>

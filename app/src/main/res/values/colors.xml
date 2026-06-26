@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="status_success">#FF4CAF50</color>
+    <color name="status_error">#FFF44336</color>
+    <color name="status_pending">#FFFF9800</color>
+    <color name="bbox_color">#FFFF3030</color>
+    <color name="overlay_bar_bg">#AA000000</color>
 </resources>
